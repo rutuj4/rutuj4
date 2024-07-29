@@ -6,10 +6,10 @@ Software Engineer | Front-End Developer
 
 💻 I'm Rutuj Shah, a passionate computer science and engineering graduate with a deep fascination for the world of technology and its boundless potential. <br> 🔭 I'm currently working on developing my portfolio website to showcase my skills and projects in computer science and engineering.<br> 🌱 I'm currently honing my skills in HTML, CSS, Java, Data Structures, and Algorithms, while delving into React.js, Node.js, and backend technologies to build innovative projects.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * 🖥️  See my portfolio at [Rutuj's Portfolio](http://rutuj4shah9.wixsite.com/rutuj-shah-portfolio)
-* ✉️  You can contact me at [rutujshah4040@gmail.com](mailto:rutujshah4040@gmail.com)
-* 🧠  I'm learning React.js, MUI
+* ✉️  You can contact me at [rutuj4shah@gmail.com](mailto:rutuj4shah@gmail.com) 
+* 🧠  Check out my LeetCode progress at [LeetCode](https://leetcode.com/u/rutuj04/)
 * 🤝  I'm open to collaborating on interesting software development projects.
 
 ### Skills
